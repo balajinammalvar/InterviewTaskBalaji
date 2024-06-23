@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_mamitha3.png.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/mamitha3.png"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.matrimony.app-main-47:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_profile_tab_selector_green.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/profile_tab_selector_green.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/layout_view_pager_adapter.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/layout/view_pager_adapter.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.matrimony.app-main-47:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_ic_pre.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/ic_pre.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_ic_back.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_ic_verified.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/ic_verified.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/layout_gesture_profile_adapter.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/layout/gesture_profile_adapter.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/layout_home_profile_adapter.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/layout/home_profile_adapter.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_barathi3.png.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/barathi3.png"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_profile_tab_indicator_default.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/profile_tab_indicator_default.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.matrimony.app-main-47:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_sri_divya3.png.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/sri_divya3.png"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/xml_backup_rules.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_mamitha1.png.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/mamitha1.png"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_profile_tab_selectors.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/profile_tab_selectors.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_barathi1.png.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/barathi1.png"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/layout_home_screen.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/layout/home_screen.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_ic_rounded_button.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/ic_rounded_button.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/layout_profile_details.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/layout/profile_details.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/xml_motion_layout_scene.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/xml/motion_layout_scene.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_ic_cancel.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/layout_gesture_fragment.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/layout/gesture_fragment.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_mamithaa2.png.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/mamithaa2.png"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.matrimony.app-main-47:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_ic_right.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/ic_right.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.matrimony.app-main-47:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_ic_sam1.JPG.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/ic_sam1.JPG"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_ic_star.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/layout_home_fragment.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/layout/home_fragment.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_iv_matrimony.png.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/iv_matrimony.png"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_sri_divya2.png.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/sri_divya2.png"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_barathi2.png.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/barathi2.png"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_ic_more.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/ic_more.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-debug-45:/drawable_ic_rounded_button_plain.xml.flat",
+        "source": "com.example.matrimony.app-main-47:/drawable/ic_rounded_button_plain.xml"
+    }
+]

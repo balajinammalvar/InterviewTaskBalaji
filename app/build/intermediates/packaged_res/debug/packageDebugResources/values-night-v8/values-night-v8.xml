@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFFFF</color>
+    <color name="black_lite">#FFFFFF</color>
+    <color name="blue">#1F93CF</color>
+    <color name="orange">#ff9800</color>
+    <color name="premium">#C5A3EA</color>
+    <color name="verified">#5E78DD</color>
+    <color name="white">#000000</color>
+    <style name="Base.Theme.Matrimony" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+</resources>

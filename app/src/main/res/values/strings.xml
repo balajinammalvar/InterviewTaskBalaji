@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Matrimony</string>
+    <string name="data_added">Matrimony Data Added Already</string>
+    <string name="number_of_recommendation"> %1$s Recommendations For you</string>
+    <string name="tv_matcher">My Matches</string>
+    <string name="not_interested">Profile Marked as Not Interested</string>
+    <string name="interested">Profile Marked as Interested</string>
+    <string name="loading">Loading Please Wait</string>
+</resources>

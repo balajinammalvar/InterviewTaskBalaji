@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.matrimony.app-mergeDebugResources-44:/layout/home_fragment.xml",
+        "source": "com.example.matrimony.app-main-47:/layout/home_fragment.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-mergeDebugResources-44:/layout/profile_details.xml",
+        "source": "com.example.matrimony.app-main-47:/layout/profile_details.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-mergeDebugResources-44:/layout/home_profile_adapter.xml",
+        "source": "com.example.matrimony.app-main-47:/layout/home_profile_adapter.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-mergeDebugResources-44:/layout/home_screen.xml",
+        "source": "com.example.matrimony.app-main-47:/layout/home_screen.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-mergeDebugResources-44:/layout/activity_splash_screen.xml",
+        "source": "com.example.matrimony.app-main-47:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-mergeDebugResources-44:/layout/gesture_fragment.xml",
+        "source": "com.example.matrimony.app-main-47:/layout/gesture_fragment.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-mergeDebugResources-44:/layout/view_pager_adapter.xml",
+        "source": "com.example.matrimony.app-main-47:/layout/view_pager_adapter.xml"
+    },
+    {
+        "merged": "com.example.matrimony.app-mergeDebugResources-44:/layout/gesture_profile_adapter.xml",
+        "source": "com.example.matrimony.app-main-47:/layout/gesture_profile_adapter.xml"
+    }
+]

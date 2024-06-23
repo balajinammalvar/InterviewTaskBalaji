@@ -1,0 +1,6 @@
+com.example.matrimony.test.app-annotation-experimental-1.4.0-0 C:\Users\HP\.gradle\caches\transforms-4\48febb49e95adca5f09685eb21cc2b79\transformed\annotation-experimental-1.4.0\res
+com.example.matrimony.test.app-core-1.5.0-1 C:\Users\HP\.gradle\caches\transforms-4\ced761ae2cec859721063d8512b801b8\transformed\core-1.5.0\res
+com.example.matrimony.test.app-androidTest-2 C:\Users\HP\Downloads\Compressed\matrimony-master\app\build\generated\res\resValues\androidTest\debug
+com.example.matrimony.test.app-mergeDebugAndroidTestResources-3 C:\Users\HP\Downloads\Compressed\matrimony-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.matrimony.test.app-mergeDebugAndroidTestResources-4 C:\Users\HP\Downloads\Compressed\matrimony-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.matrimony.test.app-debugAndroidTest-5 C:\Users\HP\Downloads\Compressed\matrimony-master\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

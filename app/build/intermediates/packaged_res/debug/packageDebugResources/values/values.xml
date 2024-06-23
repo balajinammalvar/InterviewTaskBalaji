@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_lite">#454545</color>
+    <color name="blue">#1F93CF</color>
+    <color name="green">#42BA69</color>
+    <color name="orange">#ff9800</color>
+    <color name="premium">#C5A3EA</color>
+    <color name="verified">#5E78DD</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Matrimony</string>
+    <string name="data_added">Matrimony Data Added Already</string>
+    <string name="interested">Profile Marked as Interested</string>
+    <string name="loading">Loading Please Wait</string>
+    <string name="not_interested">Profile Marked as Not Interested</string>
+    <string name="number_of_recommendation"> %1$s Recommendations For you</string>
+    <string name="tv_matcher">My Matches</string>
+    <style name="Base.Theme.Matrimony" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Matrimony" parent="Theme.AppCompat.DayNight.NoActionBar"/>
+</resources>
